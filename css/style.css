@@ -1,2 +1,6 @@
 body{background-color: gray;} 
-
+img[alt="Paysage libre de droits"] {
+    width: 100%; /* Modifie la largeur */
+    height: auto; /* Maintien le ratio  */ 
+    border: 2px;
+}
